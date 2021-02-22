@@ -1,0 +1,41 @@
+Elements of game design :
+decunstructing the game - ( breaking the game into smaller functionalities )
+1. pc ( playing character - operated by player )
+Npc ( non playing charater - operated by computer)
+example : In the packman game pacman , ghosts - ( npc )
+
+2. Goal : Every game should have a goal 
+example : Pacman has to eat all the small dots and not get killed by the ghost
+
+3. Rules : pacman moves by arrow keys
+small yellow dots dissapear when pacman touches it
+ghosts move randomly and chase behind pacman
+pacman has 3 lives
+When pacman eats the dots score increases
+
+
+4. Rules should be balanced ( not too easy not too difficult )
+
+5. Adaptivity
+As the game progresses the speed of the game should increase 
+Game can have different levels
+Difficulty level should increase
+
+6. Elements of chance vs Elements of skill
+elements of skill - depends on skill of the player 
+elements of chance - use random number 
+
+7. Feedback : 
+Scores ( positive feedback ) 
+Losing life ( negetive feedback )
+
+8. Make the game intresting by adding :
+Colours
+Images
+Animations
+Sounds
+
+9. Story:
+story can be direct or indirect 
+Stories can be educational it can be based on true stories
+Or it can be for fun.
